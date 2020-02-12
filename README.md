@@ -1,5 +1,4 @@
-# ClixWall Installation For Aurora
-
+ClixWall Installation For Aurora
 ---
 
 1. Open members/clixwall.php Enter Site API code there.
@@ -9,8 +8,7 @@
 
 You can access ClickWall by http://www.domain.com/?view=account&ac=clixwall
 
-# ClixWall Markeplace API Installation
-
+ClixWall Markeplace API Installation
 ---
 
 1. Open clixwall_api.php and Enter the secret password. You are not allowed to edit other details on API Page.
@@ -18,7 +16,9 @@ You can access ClickWall by http://www.domain.com/?view=account&ac=clixwall
 
 API URL will be http://www.domain.com/clixwall_api.php
 
-## More details
+
+More details
+---
 
 Postback: https://www.clixwall.com/docs/postback
 
